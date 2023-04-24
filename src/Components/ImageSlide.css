@@ -1,0 +1,34 @@
+.slider-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .head{
+    color: #fff;
+    margin: 1rem;
+  }
+  
+  .slider-image {
+    width: 100%;
+    height: 50vh;
+
+  }
+  
+  .slider-buttons {
+    margin: 1rem;
+  }
+  
+  .slider-button {
+    padding: 0.5rem 1rem;
+    margin: 2rem;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  .slider-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,36 @@
+.parent{
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    height: 50vh;
+    width: 100%;
+    align-items: center;
+}
+.edu{
+    color: black;
+    text-align: center;
+    padding-top: 1rem;
+}
+.edu2{
+    color: black;
+    font-size: 25px;
+    margin: 2rem;
+}
+.p{
+    color: black;
+    margin: 2rem;
+}
+.box{
+    border: 2px solid black;
+    width: fit-content;
+    border-radius: 10px;
+    margin: 3rem;
+    transition: transform 0.3s ease-in-out;
+}
+.box:hover{
+    transform: scale(1.05);
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.ed{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
